@@ -1,1 +1,1 @@
-FROM http
+FROM alpine
